@@ -94,8 +94,8 @@ class Navigation extends Component {
                             <li><a href={config.app.files.CommercialEN} target="_blank">Commercialpaper</a></li>
                             <li><Link to="/about" onClick={this.getNav.bind(this)}>Team</Link></li>
                             <li><Link to="/career" onClick={this.getNav.bind(this)}>Career</Link></li>
-                            <li><a href="https://www.wanscan.org" onClick={this.getNav.bind(this)}>Explorer</a></li>
-                            <li><Link to="https://medium.com/wanchain-foundation" target="_blank">Medium</Link></li>
+                            <li><a href="https://amis-erc20.github.io/amiscan" onClick={this.getNav.bind(this)}>Explorer</a></li>
+                            <li><Link to="https://medium.com/@AMIS_ERC20" target="_blank">Medium</Link></li>
                             <li><Link to="/events" onClick={this.getNav.bind(this)}>Events</Link></li>
 
                         </ul>
@@ -113,10 +113,10 @@ class Navigation extends Component {
                             <li><a href={config.app.files.CommercialEN} target="_blank">Commercialpaper</a></li>
                             <li><Link to="/about" onClick={this.getNav.bind(this)}>Team</Link></li>
                             <li><Link to="/career" onClick={this.getNav.bind(this)}>Career</Link></li>
-                            <li><Link to="https://www.wanscan.org" target="_blank">Explorer</Link></li>
-                            <li><Link to="https://medium.com/wanchain-foundation" target="_blank">Medium</Link></li>
+                            <li><Link to="https://amis-erc20.github.io/amiscan" target="_blank">Explorer</Link></li>
+                            <li><Link to="https://medium.com/@AMIS_ERC20" target="_blank">Medium</Link></li>
                             <li><Link to="/events" onClick={this.getNav.bind(this)}>Events</Link></li>
-                            <li><Link to="/wanlabs" onClick={this.getNav.bind(this)}>WanLabs</Link></li>                            
+                            <li><Link to="/wanlabs" onClick={this.getNav.bind(this)}>amisLabs</Link></li>                            
                         </ul>
                     </div>
                     }
@@ -135,22 +135,22 @@ class Navigation extends Component {
                                         <a href={config.app.files.WhitepaperEN} target="_blank">White paper</a>
                                         <a href={config.app.files.YellowpaperEN} target="_blank">Yellow paper</a>
                                         <a href={config.app.files.CommercialEN} target="_blank">Commercial paper</a>
-                                        <a href="http://www.wanchaindocs.org/en/latest/" target="_blank">Wanchain docs</a>                                        
+                                        <a href="http://www.wanchaindocs.org/en/latest/" target="_blank">amischain docs</a>                                        
                                     </div>
                                 </div>
                             </li>
                             <li><Link to="/about">Team</Link></li>
                             <li><Link to="/career">Career</Link></li>
-                            <li><Link to="https://www.wanscan.org" target="_blank">Explorer</Link></li>
-                            <li><Link to="https://medium.com/wanchain-foundation" target="_blank">Medium</Link></li>
+                            <li><Link to="https://amis-erc20.github.io/amiscan" target="_blank">Explorer</Link></li>
+                            <li><Link to="https://medium.com/@AMIS_ERC20" target="_blank">Medium</Link></li>
                             <li><Link to="/events" onClick={this.getNav.bind(this)}>Events</Link></li>
-                            <li><Link to="/wanlabs">WanLabs</Link></li>
+                            <li><Link to="/wanlabs">amisLabs</Link></li>
                         </ul>
                     </div>
                     }
                     {/* <a onClick={this.onClick.bind(this)} className={styles.navJoin}>Join us</a> */}
                     {/* <div className={styles.navGit}>
-                        <a href="https://github.com/wanchain" target="_blank"><img src={clientWidth > 320 ? github : github2} /></a>
+                        <a href="https://github.com/ami-solution" target="_blank"><img src={clientWidth > 320 ? github : github2} /></a>
                     </div> */}
                 </div>
                 <JoinwarningModal show={joinWarningModal} onHide={this.showWarnsFunc} onClose={this.closeWarnsFunc}/>

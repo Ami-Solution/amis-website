@@ -33,12 +33,12 @@ class About extends Component {
                 <div className={styles.aboutHeader}>
                     <img className={styles.aboutHeaderImg1} src={blog1} />
                     <img className={styles.aboutHeaderImg2} src={blog2} />
-                    <h2>{language === 'zn' ? '项目团队' : 'Wanchain'}</h2>
+                    <h2>{language === 'zn' ? '项目团队' : 'amischain'}</h2>
                 </div>
 
                 <div className={styles.aboutBody + ' container'}>
                     <div className={styles.aboutTitle}>
-                        <h2>{language === 'zn' ? '核心团队' : 'Wanchain Team'}</h2>
+                        <h2>{language === 'zn' ? '核心团队' : 'amischain Team'}</h2>
                     </div>
 
                     <div className={styles.aboutTeam + ' col-lg-12'}>

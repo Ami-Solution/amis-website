@@ -3,5 +3,5 @@
     n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
     t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
     document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1773079876322445'); // Insert your pixel ID here.
+fbq('init', ''); // Insert your pixel ID here.
 fbq('track', 'PageView');

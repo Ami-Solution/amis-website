@@ -28,7 +28,7 @@ export default class JoinwarningModal extends Component {
 
               <div className={styles['astro-warning-modal-button']}>
                 <div className={styles['astro-warning-modal-div']}>
-                  <p>Wanchain is hiring new employees and contract workers in the following areas:<br/>
+                  <p>amischain is hiring new employees and contract workers in the following areas:<br/>
                     -Blockchain Development<br/>
                     -Leadership</p>
                   <p>
@@ -38,7 +38,7 @@ export default class JoinwarningModal extends Component {
                   <p>
                     Pay is competitive.<br/><br/>
                     If you are interested in working on next generation blockchain architecture and rebuilding the financial services industry please send your resume, Github repository, and/or LinkedIn profile to:
-                    <span className={styles.spanColor}> info@wanchain.org</span>
+                    <span className={styles.spanColor}> https://gitter.im/amis-delta-dex/Lobby</span>
                   </p>
                 </div>
                 <button key="1" onClick={this.onCloseJoinFunc.bind(this)} id="theText">close</button>

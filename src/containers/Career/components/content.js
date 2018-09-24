@@ -101,7 +101,7 @@ class Content extends Component {
                   <span className="comtdH1">To apply please send your resume, Github repository, and/or LinkedIn profile to:
                   </span>
                 </h1>
-                <p className="comtdP">info@wanchain.org</p>
+                <p className="comtdP">gitter.im/amis-delta-dex/Lobby</p>
               </div>
             </div>
           </div>
@@ -189,7 +189,7 @@ class Content extends Component {
                   <span className="comtdH1">To apply please send your resume, Github repository, and/or LinkedIn profile to:
                   </span>
                 </h1>
-                <p className="comtdP">info@wanchain.org</p>
+                <p className="comtdP">gitter.im/amis-delta-dex/Lobby</p>
               </div>
             </div>
           </div>
@@ -281,7 +281,7 @@ class Content extends Component {
                   <span className="comtdH1">To apply please send your resume, Github repository, and/or LinkedIn profile to:
                   </span>
                 </h1>
-                <p className="comtdP">info@wanchain.org</p>
+                <p className="comtdP">gitter.im/amis-delta-dex/Lobby</p>
               </div>
             </div>
           </div>
@@ -373,7 +373,7 @@ class Content extends Component {
                   <span className="comtdH1">To apply please send your resume, Github repository, and/or LinkedIn profile to:
                   </span>
                 </h1>
-                <p className="comtdP">info@wanchain.org</p>
+                <p className="comtdP">gitter.im/amis-delta-dex/Lobby</p>
               </div>
             </div>
           </div>
@@ -463,7 +463,7 @@ class Content extends Component {
                   <span className="comtdH1">To apply please send your resume, Github repository, and/or LinkedIn profile to:
                   </span>
                 </h1>
-                <p className="comtdP">info@wanchain.org</p>
+                <p className="comtdP">gitter.im/amis-delta-dex/Lobby</p>
               </div>
             </div>
           </div>

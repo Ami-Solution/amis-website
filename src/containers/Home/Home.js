@@ -127,14 +127,14 @@ export default class Home extends Component {
 
                     {/* <a onClick={this.onClick.bind(this)} className={styles.navJoin}>Join us</a> */}
                     {/* <div className={styles.homeGit}> */}
-                        {/* <a href="https://github.com/wanchain" target="_blank"><img src={clientWidth > 767 ? github : github2} /></a> */}
+                        {/* <a href="https://github.com/ami-solution/amis-website" target="_blank"><img src={clientWidth > 767 ? github : github2} /></a> */}
                     {/* </div> */}
                 </div>
 
                 <div className="container">
                     <div className={styles.homeHeaderBodyDiv1}>
                         <div>
-                          <p className={styles.bannerTitle}>WANCHAIN 2.0 IS LIVE</p>
+                          <p className={styles.bannerTitle}>amisCHAIN 2.0 IS LIVE</p>
                           <div className={styles.bannerLine}>
                             <span className={styles.greenLine}></span>
                             <span className={styles.blueLine}></span>
@@ -153,11 +153,10 @@ export default class Home extends Component {
                           </div>
                         </div>
                         <div className={styles.bannerShare}>
-                            <a href="https://t.me/WanchainANN" target="_blank"><img src={Telegram}/></a>
-                            <a href="https://www.reddit.com/r/wanchain/" target="_blank"><img src={Reddit}/></a>
-                            <a href="https://twitter.com/wanchain_org" target="_blank"><img src={Twitter}/></a>
-                            <a href="https://discord.gg/3DpeV6W" target="_blank"><img src={Discord}/></a>
-                            <a href="https://www.facebook.com/wanchainfoundation/" target="_blank"><img src={Facebook}/></a>
+                            <a href="https://www.reddit.com/r/amis_erc20" target="_blank"><img src={Reddit}/></a>
+                            <a href="https://twitter.com/amis_erc20" target="_blank"><img src={Twitter}/></a>
+                            <a href="https://gitter.im/amis-delta-dex/lobby" target="_blank"><img src={Gitchat}/></a>
+                            <a href="https://www.facebook.com/amis.token/" target="_blank"><img src={Facebook}/></a>
                         </div>
                     </div>
                 </div>

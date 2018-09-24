@@ -60,7 +60,7 @@ class Div1En extends React.Component {
                       {/* <div className={styles['crowd-div4Header-pot']}></div> */}
                       {/* <p> Before the ICO starts, exchange ratio based on Ether will be published in accordance with the Ether price.</p><br/> */}
                       <div className={styles['crowd-div4Header-pot']}></div>
-                      <p>When either 107.1 million tokens are sold or when the crowd-funding time ends, the smart contract will be automatically closed.</p>
+                      <p>When either 5.1 million tokens are sold or when the crowd-funding time ends, the smart contract will be automatically closed.</p>
                       {clientWidth > 767 ? <br/> : ''}
                       <div className={styles['crowd-div4Header-pot']}></div>
                       <p>The minimum and maximum contribution limit for each transaction are 0.1ETH and 65 ETH.</p>
@@ -72,7 +72,7 @@ class Div1En extends React.Component {
                       <p>After the crowd-funding ends, you can claim tokens from the smart contract by your address.</p>
                       {clientWidth > 767 ? <br/> : ''}
                       <div className={styles['crowd-div4Header-pot']}></div>
-                      <p>When Wanchain is live, users may exchange their tokens for Wancoins at a 1:1 ratio. Wanchain version 1.0 is expected to go online in November 2017.</p>
+                      <p>When amischain is live, users may exchange their AMIS tokens for OPENAMIS coins at a 1:1 ratio. amischain version 1.0 is online since Q2 2018.</p>
                   </div>
                </div>
           </div>

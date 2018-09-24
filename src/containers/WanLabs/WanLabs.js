@@ -77,20 +77,20 @@ class WanLabs extends Component {
                   </div>
                   <div className={styles.WanLabsBox}>
                       <div className={styles.WanLabsBanner}>
-                          <h1><b>WanLabs</b> is a blockchain incubator for the Wanchain ecosystem</h1>
+                          <h1><b>amisLabs</b> is a blockchain incubator for the amischain ecosystem</h1>
                           <div className={styles.bannerLine}>
                             <span className={styles.greenLine}></span>
                             <span className={styles.blueLine}></span>
                           </div>
-                          <p className={styles.textp}>WanLabs focuses on blockchain projects that address real-world problems by utilising Wanchain's unique privacy and cross-chain capabilities and building an interconnected blockchain ecosystem.</p>
-                          <p className={styles.textp2}>Ready to join WanLabs?</p>
+                          <p className={styles.textp}>amisLabs focuses on blockchain projects that address real-world problems by utilising amischain's unique privacy and cross-chain capabilities and building an interconnected blockchain ecosystem.</p>
+                          <p className={styles.textp2}>Ready to join amisLabs?</p>
                           <a className={styles.comBtn} href="/wanlabs/apply" target="_blank">Apply Now</a>
                       </div>
                   </div>
               </div>
               <div className={styles.videoBox}>
                   <div className={styles.whiteTit}>
-                      <h1>About WanLabs</h1>
+                      <h1>About amisLabs</h1>
                       <div className={styles.bannerLine}>
                           <span className={styles.greenLine}></span>
                           <span className={styles.blueLine}></span>
@@ -102,7 +102,7 @@ class WanLabs extends Component {
                   <div className={styles.downBtn}>
                       <a href="/download/wanLabs_introduction">
                           <img src={downBtnIco} className={styles.downBtnIco} />
-                          <span>Download WanLabs brochure</span>
+                          <span>Download amisLabs brochure</span>
                       </a>
                   </div>
               </div>
@@ -158,7 +158,7 @@ class WanLabs extends Component {
                               <li><em className={styles.comCircle}></em><span>Legal documentation</span></li>
                               <img src={linBg} className={styles.linBg} />
                           </ul>
-                          <p className={styles.serverPText}>* Wanchain will provide introductions to legal firms for legal support</p>
+                          <p className={styles.serverPText}>* amischain will provide introductions to legal firms for legal support</p>
                       </div>
                       <div className={styles.serverBox}>
                           <div className={styles.serverdl}>
@@ -169,8 +169,8 @@ class WanLabs extends Component {
                               <li><em className={styles.comCircle}></em><span>Foundational Brand Building</span></li>
                               <li><em className={styles.comCircle}></em><span>PR & Marketing strategy</span></li>
                               <li><em className={styles.comCircle}></em><span>Community management strategy</span></li>
-                              <li><em className={styles.comCircle}></em><span>Leverage Wanchain's 200k+ community members</span></li>
-                              <li><em className={styles.comCircle}></em><span>Showcase on WanLabs roadshows</span></li>
+                              <li><em className={styles.comCircle}></em><span>Leverage amischain's 2k+ community members</span></li>
+                              <li><em className={styles.comCircle}></em><span>Showcase on amisLabs roadshows</span></li>
                               <li><em className={styles.comCircle}></em><span>Broadcast to our investor network</span></li>
                               <img src={linBg} className={styles.linBg} />
                           </ul>
@@ -183,7 +183,7 @@ class WanLabs extends Component {
                           <ul className={styles.serverUl}>
                               <li><em className={styles.comCircle}></em><span>Funding opportunities</span></li>
                               <li><em className={styles.comCircle}></em><span>Connect institutional investors</span></li>
-                              <li><em className={styles.comCircle}></em><span>Leverage Wanchain investor community</span></li>
+                              <li><em className={styles.comCircle}></em><span>Leverage amischain investor community</span></li>
                               <img src={linBg} className={styles.linBg} />
                           </ul>
                       </div>
@@ -226,14 +226,14 @@ class WanLabs extends Component {
               </div>
               <div className={styles.interestedBox}>
                   <div className={styles.comTit2}>
-                      <h1>Interested in a career at WanLabs?</h1>
+                      <h1>Interested in a career at amisLabs?</h1>
                       <div className={styles.bannerLine}>
                           <span className={styles.greenLine}></span>
                           <span className={styles.blueLine}></span>
                       </div>
                   </div>
                   <div className={styles.interestedCont}>
-                      <p>We're on the lookout for business developers across the world to connect WanLabs to local blockchain communities. If you're interested in joining one of the leading projects in blockchain, you can apply using the link below.</p>
+                      <p>We're on the lookout for business developers across the world to connect amisLabs to local blockchain communities. If you're interested in joining one of the leading projects in blockchain, you can apply using the link below.</p>
                       <a className={styles.comBtn} href="/wanlabs/career" target="_blank">Come work with us</a>
                   </div>
               </div>
@@ -241,4 +241,4 @@ class WanLabs extends Component {
         );
     }
 }
-export default WanLabs;
+export default amisLabs;

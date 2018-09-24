@@ -82,7 +82,7 @@ class PCBox extends Component {
               </span>
             </h1>
             <p className="comtdP">
-              info@wanchain.org</p>
+              gitter.im/amis-delta-dex/Lobby</p>
           </div>
         </div>
       </div>

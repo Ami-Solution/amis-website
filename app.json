@@ -1,7 +1,7 @@
 {
-  "name": "Wanchian",
-  "description": "Wanchain websitr",
-  "repository": "https://github.com/wanchain/website",
+  "name": "Amischain",
+  "description": "Amis website",
+  "repository": "https://github.com/ami-solution/amis-website",
   "logo": "",
   "keywords": [
     "react",

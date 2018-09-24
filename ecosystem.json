@@ -1,7 +1,7 @@
 {
   "apps":[
     {
-      "name": "wanchain",
+      "name": "Amischain",
       "script": "./bin/server.js",
       "env_production": {
         "NODE_ENV": "production",
@@ -16,7 +16,7 @@
     "production": {
       "user": "root",
       "host": "114.215.28.21",
-      "repo": "git@github.com:wanchain/website.git",
+      "repo": "git@github.com:ami-solution/amis-website.git",
       "ref": "origin/master",
       "path": "/root/website",
       "post-deploy": "npm install && npm run build && pm2 startOrRestart ecosystem.json --env production"

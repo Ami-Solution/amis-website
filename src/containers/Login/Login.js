@@ -30,8 +30,8 @@ export default class Login extends Component {
     const styles = require('./Login.scss');
     return (
       <div className={styles['app-location'] + ' container'}>
-        <Helmet title="Wanchain-Login"/>
-        <h2>Welcome to Wanchian</h2>
+        <Helmet title="amischain-Login"/>
+        <h2>Welcome to Amis Chain</h2>
         <div className={styles.line}><span></span></div>
         <div className={styles.location}><img src={location} className={styles['img-responsive']} alt="" /></div>
         <form>

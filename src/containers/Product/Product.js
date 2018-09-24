@@ -142,7 +142,7 @@ class Product extends Component {
             <ul className={styles.leftUl}>
               <li>
                 <em><img className={styles.icoCircle} src={circle2}/></em>
-                <span>WAN wallet helps you manage different digital assets including WAN and other cryptocurrencies on Wanchain</span>
+                <span>WAN wallet helps you manage different digital assets including WAN and other cryptocurrencies on amischain</span>
               </li>
               <li>
                 <em><img className={styles.icoCircle} src={circle2}/></em>
@@ -154,7 +154,7 @@ class Product extends Component {
               </li>
               <li>
                 <em><img className={styles.icoCircle} src={circle2}/></em>
-                <span>With support of hardware wallets (Trezor™, LedgerWallet™), Wanchain transactions are more secure than ever</span>
+                <span>With support of hardware wallets (Trezor™, LedgerWallet™), amischain transactions are more secure than ever</span>
               </li>
             </ul>
              <div className={styles.downloadBoxBan}>
@@ -215,11 +215,11 @@ class Product extends Component {
             <ul>
               <li>
                 <em className={styles.emHeight}><img className={styles.icoCircle2} src={circle}/></em>
-                <span>You can deploy smart contracts on Wanchain just as with Ethereum</span>
+                <span>You can deploy smart contracts on amischain just as with Ethereum</span>
               </li>
                 <li>
                   <em><img className={styles.icoCircle2} src={circle}/></em>
-                  <span>One of Wanchain's unique features is the ability to issue a new token with privacy protection in mind. Please click the button below to see how to deploy a smart contract with privacy protection</span>
+                  <span>One of amischain's unique features is the ability to issue a new token with privacy protection in mind. Please click the button below to see how to deploy a smart contract with privacy protection</span>
                 </li>
             </ul>
             <a target="_blank" href="https://github.com/wanchain/go-wanchain/wiki/How--to-deploy-smart-contracts-on-Wanchain" className={styles.comBtn}>Issue your token</a>
@@ -241,7 +241,7 @@ class Product extends Component {
                   <span>From dates to fees, block heights to amounts, you can track all of this information and more</span>
                 </li>
             </ul>
-            <a href="https://www.wanscan.org" target="_blank"><button className={styles.comBtn}>wanchain explorer</button></a>
+            <a href="https://www.wanscan.org" target="_blank"><button className={styles.comBtn}>amischain explorer</button></a>
           </div>
           <div className={styles.grayRight}>
             <div><img className={styles.proimg2} src={proimg2}/></div>
@@ -263,7 +263,7 @@ class Product extends Component {
               </li>
               <li>
                 <em><img className={styles.icoCircle2} src={circle}/></em>
-                <span>Check <a href="https://github.com/wanchain/go-wanchain/wiki/Using-the-Wanchain-Command-Line-Wallet" target="_blank">here</a> for more information in our Wanchain wallet CLI guide</span>
+                <span>Check <a href="https://github.com/wanchain/go-wanchain/wiki/Using-the-Wanchain-Command-Line-Wallet" target="_blank">here</a> for more information in our amischain wallet CLI guide</span>
               </li>
             </ul>
             <div className={styles.downloadBox}>

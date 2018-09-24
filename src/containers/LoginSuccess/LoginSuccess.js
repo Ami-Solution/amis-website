@@ -19,8 +19,8 @@ export default class LoginSuccess extends Component {
     const {user} = this.props;
     return (user &&
       <div className="container">
-        <Helmet title="万维链(Wanchain)-后台管理系统"/>
-        <h1>wanchain 数据录入系统</h1>
+        <Helmet title="万维链(amischain)-后台管理系统"/>
+        <h1>amischain 数据录入系统</h1>
       </div>
     );
   }

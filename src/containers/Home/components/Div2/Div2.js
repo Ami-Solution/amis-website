@@ -51,7 +51,7 @@ class Div2 extends React.Component {
                             :
                                 <ul>
                                     <img src={pot}/><li>Exchange the world's digital assets on-chain</li>
-                                    <img src={pot}/><li>Transact using Wanchain's multi-asset wallet</li>
+                                    <img src={pot}/><li>Transact using amis's multi-asset wallet</li>
                                     <img src={pot}/><li>Build decentralized exchange applications like Ether Delta with protocol tokens</li>
                                 </ul>
                             }
@@ -106,7 +106,7 @@ class Div2 extends React.Component {
                             :
                                 <ul>
                                     <img src={pot}/><li>Streamlined process to launch ICO</li>
-                                    <img src={pot}/><li>Access to Wanchain's exuberant community</li>
+                                    <img src={pot}/><li>Access to amis's exuberant community</li>
                                     <img src={pot}/><li>Collect funds from multiple assets</li>
                                 </ul>
                             }

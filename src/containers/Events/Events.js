@@ -24,7 +24,7 @@ class Events extends Component {
                   <th width="25%">Location</th>
                 </tr>
                 <tr>
-                  <td><a target="_blank" href="https://www.eventbrite.com/e/wanchain-20-wanlabs-meetup-beijng-tickets-48685254908">Wanchain meetup series</a></td>
+                  <td><a target="_blank" href="https://www.eventbrite.com/e/wanchain-20-wanlabs-meetup-beijng-tickets-48685254908">Amischain meetup series</a></td>
                   <td>8/18</td>
                   <td>Beijng</td>
                 </tr>
@@ -53,7 +53,7 @@ class Events extends Component {
           </div>
         </div>
       </div>
-      <p className={styles.eventsText}>To RSVP for the Wanchain European Tour , please send email to ines.b@wanchain.org . We will send you a private invitation closer to the event</p>
+      <p className={styles.eventsText}>To RSVP for the amis chain European Tour , contact us on gitchat . We will send you a private invitation closer to the event</p>
     </div>);
   }
 }

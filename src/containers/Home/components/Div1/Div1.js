@@ -131,7 +131,7 @@ class Div1 extends React.Component {
           <div className={styles.comBgWhite}>
             <div className={styles.div1Header + ' container'}>
               <h2> <hr className={styles.div1HeaderImg}/>
-                <span>{language === 'zn' ? '万维链是什么？' : "WANCHAIN'S VISION"}</span>
+                <span>{language === 'zn' ? '万维链是什么？' : "amischain'S VISION"}</span>
                 <hr className={styles.div1HeaderImg}/>
               </h2>
               <div className={styles.div1HeaderImg2} id="div1HeaderImg2">
@@ -157,7 +157,7 @@ class Div1 extends React.Component {
                   <li>
                     <img src={vision4} />
                     <p>Financial Infrastructure</p>
-                    <span>The problem is that today's digital assets are isolated on their respective chains. Wanchain connects these assets and enables banking applications to be developed that guide their flows on-chain, removing centralized counterparty risk</span>
+                    <span>The problem is that today's digital assets are isolated on their respective chains. amischain connects these assets and enables banking applications to be developed that guide their flows on-chain, removing centralized counterparty risk</span>
                   </li>
                 </ul>
               </div>

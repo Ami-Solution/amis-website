@@ -84,15 +84,14 @@ export default class ICOwarningModal extends Component {
                   <div className="checkbox" id={styles['astro-warning-checkbox']}>
                     <label>
                       <input type="checkbox" name="warn" value="" />Check here to comfirm that you have read and understand the
-                      <a href={config.app.files.WhitepaperEN} target="_blank"> Wanchain White Paper </a>and
-                      <a href={config.app.files.CommercialEN} target="_blank"> Wanchain Commecial White Paper</a>.
+                      <a href={config.app.files.WhitepaperEN} target="_blank"> amischain White Paper </a>and
+                      <a href={config.app.files.CommercialEN} target="_blank"> amischain Commecial White Paper</a>.
                     </label>
                   </div>
                   <div className="checkbox" id={styles['astro-warning-checkbox']}>
                     <label>
                       <input type="checkbox" name="warn" value="" />
-                      Check here to confirm that you will not buy/sell Wanchain Tokens after the crowdsale until the Wanchain mainnet is
-                      launched, which is expected in Nov, 2017.
+                      Check here to confirm that you will not buy/sell Amis Tokens before 3rd Jan, 2017.
                     </label>
                   </div>
                 </div>

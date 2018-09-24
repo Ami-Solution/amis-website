@@ -81,12 +81,12 @@ class Content extends Component {
                   <span className="icoSan"></span>
                   <span className="comtdH1">About Us:</span>
                 </h1>
-                <p className="comtdP">Wanchain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit www.wanchain.org</p>
+                <p className="comtdP">amischain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit ami-solution.github.io/amis-website</p>
               </div>
               <div className="tbDiv">
                 <h1>
                   <span className="icoSan"></span>
-                  <span className="comtdH1">Benefits of Working at Wanchain</span>
+                  <span className="comtdH1">Benefits of Working at amischain</span>
                 </h1>
                 <p className="comtdP">
                   <span>-Competitive compensation (payable in cryptocurrency if desired)</span>
@@ -169,12 +169,12 @@ class Content extends Component {
                   <span className="icoSan"></span>
                   <span className="comtdH1">About Us:</span>
                 </h1>
-                <p className="comtdP">Wanchain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit www.wanchain.org</p>
+                <p className="comtdP">amischain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit ami-solution.github.io/amis-website</p>
               </div>
               <div className="tbDiv">
                 <h1>
                   <span className="icoSan"></span>
-                  <span className="comtdH1">Benefits of Working at Wanchain</span>
+                  <span className="comtdH1">Benefits of Working at amischain</span>
                 </h1>
                 <p className="comtdP">
                   <span>-Competitive compensation (payable in cryptocurrency if desired)</span>
@@ -261,12 +261,12 @@ class Content extends Component {
                   <span className="icoSan"></span>
                   <span className="comtdH1">About Us:</span>
                 </h1>
-                <p className="comtdP">Wanchain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit www.wanchain.org</p>
+                <p className="comtdP">amischain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit ami-solution.github.io/amis-website</p>
               </div>
               <div className="tbDiv">
                 <h1>
                   <span className="icoSan"></span>
-                  <span className="comtdH1">Benefits of Working at Wanchain</span>
+                  <span className="comtdH1">Benefits of Working at amischain</span>
                 </h1>
                 <p className="comtdP">
                   <span>-Competitive compensation (payable in cryptocurrency if desired)</span>
@@ -316,7 +316,7 @@ class Content extends Component {
                   <span className="comtdH1">Job Description:</span>
                 </h1>
                 <p className="comtdP">We require community managers who can engage professionally and efficiently with our community across offline platforms (local meetup groups, conferences) and are comfortable speaking in front of a crowd.</p>
-                <p className="comtdP">As a community manager, you will be responsible for creating and managing global and local community meetup groups. We are looking for candidates who are outgoing, well-connected in their local blockchain communities and have a deep understanding of the Blockchain technology and a driven passion for Wanchain.</p>
+                <p className="comtdP">As a community manager, you will be responsible for creating and managing global and local community meetup groups. We are looking for candidates who are outgoing, well-connected in their local blockchain communities and have a deep understanding of the Blockchain technology and a driven passion for amischain.</p>
               </div>
               <div className="tbDiv">
                 <h1>
@@ -353,12 +353,12 @@ class Content extends Component {
                   <span className="icoSan"></span>
                   <span className="comtdH1">About Us:</span>
                 </h1>
-                <p className="comtdP">Wanchain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit www.wanchain.org</p>
+                <p className="comtdP">amischain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit ami-solution.github.io/amis-website</p>
               </div>
               <div className="tbDiv">
                 <h1>
                   <span className="icoSan"></span>
-                  <span className="comtdH1">Benefits of Working at Wanchain</span>
+                  <span className="comtdH1">Benefits of Working at amischain</span>
                 </h1>
                 <p className="comtdP">
                   <span>-Competitive compensation (payable in cryptocurrency if desired)</span>
@@ -408,7 +408,7 @@ class Content extends Component {
                   <span className="comtdH1">Job Description:</span>
                 </h1>
                 <p className="comtdP">We require community managers who can engage professionally and efficiently with our community across online platforms (bitcointalk, reddit, discord and telegram).</p>
-                <p className="comtdP">As an online community manager, you will be responsible for monitoring the online social platforms, giving and explaining information to users about the Wanchain platform, understand and be able to explain technical terms to users and respond to queries.</p>
+                <p className="comtdP">As an online community manager, you will be responsible for monitoring the online social platforms, giving and explaining information to users about the amischain platform, understand and be able to explain technical terms to users and respond to queries.</p>
               </div>
               <div className="tbDiv">
                 <h1>
@@ -443,12 +443,12 @@ class Content extends Component {
                   <span className="icoSan"></span>
                   <span className="comtdH1">About Us:</span>
                 </h1>
-                <p className="comtdP">Wanchain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit www.wanchain.org</p>
+                <p className="comtdP">amischain is developing next generation cross-chain blockchain architecture with privacy protection. Their mission is to re-build the financial services industry and recently raised $35 million in an ICO. For more information please visit ami-solution.github.io/amis-website</p>
               </div>
               <div className="tbDiv">
                 <h1>
                   <span className="icoSan"></span>
-                  <span className="comtdH1">Benefits of Working at Wanchain</span>
+                  <span className="comtdH1">Benefits of Working at amischain</span>
                 </h1>
                 <p className="comtdP">
                   <span>-Competitive compensation (payable in cryptocurrency if desired)</span>
